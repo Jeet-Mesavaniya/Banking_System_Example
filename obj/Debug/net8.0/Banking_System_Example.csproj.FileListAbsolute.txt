@@ -1,0 +1,14 @@
+E:\All project\Banking_System_Example\bin\Debug\net8.0\Banking_System_Example.exe
+E:\All project\Banking_System_Example\bin\Debug\net8.0\Banking_System_Example.deps.json
+E:\All project\Banking_System_Example\bin\Debug\net8.0\Banking_System_Example.runtimeconfig.json
+E:\All project\Banking_System_Example\bin\Debug\net8.0\Banking_System_Example.dll
+E:\All project\Banking_System_Example\bin\Debug\net8.0\Banking_System_Example.pdb
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.AssemblyInfoInputs.cache
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.AssemblyInfo.cs
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.csproj.CoreCompileInputs.cache
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.dll
+E:\All project\Banking_System_Example\obj\Debug\net8.0\refint\Banking_System_Example.dll
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.pdb
+E:\All project\Banking_System_Example\obj\Debug\net8.0\Banking_System_Example.genruntimeconfig.cache
+E:\All project\Banking_System_Example\obj\Debug\net8.0\ref\Banking_System_Example.dll
